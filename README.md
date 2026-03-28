@@ -86,6 +86,7 @@ After extracting data from SQL, Python is used to actually **understand the stor
 
   * Cost normalization
   * Basic anomaly detection
+  * Realistic distribution throughout the data tables
 
 * **ETL Pipeline**
 
